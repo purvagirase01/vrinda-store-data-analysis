@@ -13,7 +13,8 @@ This project analyzes sales data using Microsoft Excel.
 - Data Analysis
 - Dashboard Creation
 
-## 📈 Insights
-- Women customers contribute highest sales
-- Age group 30-49 is most active
+## 📈 Insights:
+-Women are more likely to buy compared to men(~65%)
+-Adult age group(30-40 yrs) is max contributing(~50%)
+-Amazon, Flipkart and Myntra channels are max contributing(~80%)
 - Top states: Maharashtra, Karnataka, Uttar Pradesh
